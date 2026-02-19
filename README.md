@@ -30,7 +30,7 @@ Sistem ini diharapkan dapat meningkatkan akurasi data kehadiran, meminimalkan ke
 | Analisis Kebutuhan | Menjabarkan kebutuhan fungsional dan non-fungsional sistem | 
 ---
 
-## Teknologi yang Digunakan  
+## Tools yang Digunakan  
 - **Database:** MySQL  
 - **Backend (Prototype):** Express.js
 - **Integrasi:** WhatsApp API (untuk notifikasi)  
@@ -39,9 +39,7 @@ Sistem ini diharapkan dapat meningkatkan akurasi data kehadiran, meminimalkan ke
 
 ---
 
-## Struktur Tim  
-| Peran | Nama | Tanggung Jawab |
-|-------|------|----------------|
+
 | Project Manager & System Analyst | Roro Primanisaa A. Rahmawati | Perencanaan proyek, analisis sistem, perancangan diagram, dan dokumentasi proyek |
 ---
 
